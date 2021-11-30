@@ -3,5 +3,5 @@ languageCode = 'en-us'
 title = 'Social Graphs Project'
 theme = 'meghna-hugo'
 draft = 'True'
-publishDir: "docs"
+publishDir = "docs"
 
